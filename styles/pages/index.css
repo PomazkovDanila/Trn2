@@ -32,6 +32,10 @@
 @import url(../blocks/cards/cards.css);
 /* digits */
 @import url(../blocks/digits/digits.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/table__cell/table__cell.css);
+@import url(../blocks/table/table__heading/table__heading.css);
+@import url(../blocks/table/table__text/table__text.css);
 /* kaufman */
 @import url(../blocks/kaufman/kaufman.css);
 /* resources */
