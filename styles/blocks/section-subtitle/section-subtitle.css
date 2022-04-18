@@ -7,3 +7,6 @@
   line-height: 32px;
   text-align: center;
 }
+.section-subtitle_theme_dark {
+  color: var(--color-white);
+}

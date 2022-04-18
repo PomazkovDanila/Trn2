@@ -6,3 +6,6 @@
   line-height: 1.15;
   text-align: center;
 }
+.section-title_theme_dark {
+  color: var(--color-white);
+}
