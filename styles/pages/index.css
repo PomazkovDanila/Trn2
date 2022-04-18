@@ -41,5 +41,7 @@
 /* ! you here */
 /* resources */
 @import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/resources__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/resources__logo/resources__logo.css);
 /* footer */
 @import url(../blocks/footer/footer.css);

@@ -1,2 +1,10 @@
 .resources {
+  padding-top: 100px;
+  padding-bottom: 217px;
+
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
