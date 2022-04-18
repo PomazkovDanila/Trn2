@@ -38,10 +38,10 @@
 @import url(../blocks/table/table__text/table__text.css);
 /* kaufman */
 @import url(../blocks/kaufman/kaufman.css);
-/* ! you here */
 /* resources */
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/resources__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/resources__logo/resources__logo.css);
 /* footer */
+/* ! you here */
 @import url(../blocks/footer/footer.css);
