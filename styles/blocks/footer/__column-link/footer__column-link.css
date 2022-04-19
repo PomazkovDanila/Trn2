@@ -1,0 +1,13 @@
+.footer__column-link {
+  margin-top: 10px;
+
+  display: flex;
+  align-items: center;
+
+  line-height: 18px;
+
+  color: var(--color-white);
+}
+.footer__column-link:first-of-type {
+  margin-top: 0;
+}
