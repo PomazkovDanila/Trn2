@@ -1,5 +1,6 @@
 .section-title {
   width: 60%;
+  z-index: 1;
 
   font-size: 60px;
   font-weight: 600;
